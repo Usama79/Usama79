@@ -1,7 +1,11 @@
- # Hi, I'm Usama 👋
+  <p align="center">
+     <img src="https://media.giphy.com/media/RDZo7znAdn2u7sAcWH/giphy.gif" width="600" alt="banner"/>
+   </p>
+
+ # Hi, Its Usama 👋
 
    **Application Security Engineer | DevSecOps | AI Security | Cloud Security**
-   📍 Lahore, Pakistan &nbsp;·&nbsp; 📧 usamayaseen79@gmail.com &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/usama--yaseen)
+   📧 usamayaseen79@gmail.com &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/usama--yaseen)
 
    ---
 
