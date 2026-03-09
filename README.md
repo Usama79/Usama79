@@ -1,5 +1,5 @@
   <p align="center">
-     <img src="https://media.giphy.com/media/RDZo7znAdn2u7sAcWH/giphy.gif" width="600" alt="banner"/>
+     <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2gwdTg0Zzl2cnV4a3MzNXMxeDUzYWo4MjVuN3d1enloejFsZTJndiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sULKEgDMX8LcI/giphy.gif" width="600" alt="banner"/>
    </p>
 
  # Hi, Its Usama 👋
