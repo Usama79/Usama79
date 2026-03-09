@@ -146,20 +146,7 @@ class Usama:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Usama79&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF" width="48%" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Usama79&theme=radical&hide_border=true&background=0D1117&ring=00FF41&fire=FF6633&currStreakLabel=00FF41" width="48%" alt="Streak Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Usama79&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF" width="40%" alt="Top Languages"/>
-</p>
-
----
-
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Usama79/Usama79/output/github-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---
